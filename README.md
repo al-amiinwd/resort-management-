@@ -3,8 +3,9 @@ Welcome to resort management, a hotel bookings system, built with Laravel backen
 
 **1 - Clone the project:**
 
-    git clone https://github.com/yons101/hotel101-hotel-bookings-laravel-react.git
-    cd hotel101-hotel-bookings-laravel-react
+     https://github.com/al-amiinwd/resort-management-.git
+    cd resort-management
+    
 
 **2 - Install Laravel dependencies**
 
